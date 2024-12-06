@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Terrier](https://github.com/user-attachments/assets/b5371dca-07c4-46bb-8537-81a0b79cc90b)
+
+
 **Neollange/Neollange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
